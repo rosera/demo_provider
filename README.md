@@ -1,16 +1,14 @@
-# demo_provider
+# Demo Provider 
 
-Demo Provider example for template project layout
+Demonstration how to setup a Provider project in Flutter to maintain state.
+The application reads a remote file and applies statemangement with refresh.
 
-## Getting Started
+![demo_provider](https://github.com/rosera/demo_provider/blob/main/screenshots/demo_provider.png "Mobile App")
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Package  | Description                                                                |
+|----------|----------------------------------------------------------------------------|
+| http     | HTTP methods support for accessing remote content                          |
+| provider | Provider for state management |
