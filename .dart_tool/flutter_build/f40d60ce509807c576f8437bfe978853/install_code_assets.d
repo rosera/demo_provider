@@ -1,0 +1,1 @@
+ /Users/rosera/StudioProjects/demo_provider/.dart_tool/flutter_build/f40d60ce509807c576f8437bfe978853/native_assets.json: 
